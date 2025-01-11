@@ -4,7 +4,7 @@ title:  "Campaign Data Analysis"
 date:   2025-01-10 12:07:56 -0500
 categories: data-demo
 ---
-In 2022, I was lucky to get a chance to contribute to a political race in my district. With the political climate the way it is, I was excited to get a chance to help the State Representative from my district here in Montgomery County PA in their 2022 election. In this election, the democratic candidate Missy Cerato was able to unseat the long-serving republican incumbent Todd Stephans. 
+In 2022, I was lucky to get a chance to contribute to a political race in my district. With the political climate the way it is, I was excited to help the State Representative from my district here in Montgomery County PA in their 2022 election. In this election, the democratic candidate Missy Cerato was able to unseat the long-serving republican incumbent Todd Stephans. 
 
 This race was interesting for a few reasons. First, the win by Rep. Cerrato provided the dead-lock breaking majority needed for the democrats in the PA House. Second, it was the first election to occur after a major redistricting effort re-allocated the voting precincts amongst the house districts. 
 
